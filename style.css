@@ -1,0 +1,101 @@
+
+        body {
+            background-color: #0F0C0A;
+            font-family: Georgia, serif;
+            text-align: center;
+            color: #E8DCC8;
+        }
+
+        h1 {
+            color: #C9A66B;
+            font-size: 42px;
+            letter-spacing: 6px;
+            margin-top: 35px;
+        }
+
+        h3 {
+            color: #8F7A60;
+            letter-spacing: 3px;
+            font-weight: normal;
+        }
+
+        table {
+            margin: 40px auto;
+            border-spacing: 25px;
+        }
+
+        td {
+            width: 270px;
+            background-color: #1A1410;
+            border: 2px solid #6E5638;
+            border-radius: 20px;
+            box-shadow: 0px 10px 30px #000000;
+            padding: 15px;
+            vertical-align: top;
+        }
+
+        img {
+            width: 270px;
+            height: 190px;
+            object-fit: cover;
+            border-radius: 15px;
+            border: 2px solid #C9A66B;
+        }
+
+        h2 {
+            color: #E8DCC8;
+            font-size: 26px;
+            letter-spacing: 2px;
+        }
+
+        h4 {
+            color: #C9A66B;
+            font-size: 12px;
+            letter-spacing: 3px;
+        }
+
+        p {
+            color: #A99A86;
+            font-size: 15px;
+            line-height: 1.6;
+        }
+
+        button {
+            background-color: #0F0C0A;
+            color: #C9A66B;
+            border: 2px solid #C9A66B;
+            border-radius: 10px;
+            padding: 10px 25px;
+            font-family: Georgia, serif;
+        }
+        .one:hover{
+          
+box-shadow: 20px 20px 20px rgb(209, 169, 37);
+border-top: #f38b03;
+
+
+    width: 290px;
+    height: 300px;
+
+        }
+        .three:hover{
+          
+box-shadow: 20px 20px 20px rgb(209, 169, 37);
+border-top: #f38b03;
+
+
+    width: 290px;
+    height: 300px;
+
+        }
+        .two:hover{
+          
+box-shadow: 20px 20px 20px rgb(209, 169, 37);
+border-top: #f38b03;
+
+
+    width: 290px;
+     height: 300px;
+     
+
+        }
